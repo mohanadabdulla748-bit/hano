@@ -1,0 +1,32 @@
+<!DOCTYPE html>  <html lang="ar">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>صفحة مهند للصيانة</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            background-color: #f4f4f4;  
+            text-align: center;  
+            padding-top: 50px;  
+        }  
+        a {  
+            display: inline-block;  
+            margin: 20px;  
+            padding: 10px 20px;  
+            background-color: #007BFF;  
+            color: white;  
+            text-decoration: none;  
+            border-radius: 5px;  
+        }  
+        a:hover {  
+            background-color: #0056b3;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <h1>مرحبًا بكم في موقع مهند للصيانة والتنظيف</h1>  
+    <p>اضغط على الزر أدناه للذهاب إلى صفحة الاتصال:</p>  
+    <a href="contact.html">صفحة الاتصال</a>  
+</body>  
+</html>
